@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/GoodsList/GoodsList.scss"],"names":[],"mappings":"AAAA,YACE,eAAgB,CAEhB,kBACE,kBAAmB","file":"main.93a75041.chunk.css","sourcesContent":[".goods-list {\n  list-style: none;\n\n  &__item {\n    margin-bottom: 10px;\n  }\n}\n"]}
